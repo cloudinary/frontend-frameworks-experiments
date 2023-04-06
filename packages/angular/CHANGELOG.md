@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.16.0-alpha.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.15.0...@cloudinary/angular-workspace@1.16.0-alpha.0) (2023-04-06)
+
+
+### Features
+
+* use html2 ([e2d738f](https://github.com/cloudinary/frontend-frameworks/commit/e2d738f128a4a6e7bfda202844869afeedcac201))
+* use html3 ([7162178](https://github.com/cloudinary/frontend-frameworks/commit/71621789546ec2d7e9fea7490b12e096f5fb4a22))
+
+
+
+
+
 # [1.15.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.15.0-alpha.0...@cloudinary/angular-workspace@1.15.0) (2023-04-06)
 
 **Note:** Version bump only for package @cloudinary/angular-workspace
