@@ -7,7 +7,7 @@ import {
   accessibility,
   lazyload,
   responsive,
-} from '@cloudinary/html';
+} from '@cloudinary/html2';
 export {placeholder, accessibility, lazyload, responsive};
 
 
