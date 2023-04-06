@@ -39,5 +39,6 @@
     "lodash.clonedeep": "^4.5.0",
     "lodash.debounce": "^4.0.8",
     "typescript": "^4.1.2"
-  }
+  },
+  "gitHead": "495ab80fde7a4d2e9e1bf1aca7eefeb8ef02e17c"
 }
