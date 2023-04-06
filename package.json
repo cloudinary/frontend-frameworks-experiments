@@ -2,7 +2,7 @@
   "name": "frontend-frameworks-monorepo",
   "version": "1.0.0",
   "scripts": {
-    "install": "lerna bootstrap",
+    "install": "lerna bootstrap --no-ci",
     "build": "lerna run build",
     "quickstart": "lerna bootstrap --no-ci && lerna run build",
     "test": "lerna run test",
