@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/ng@1.12.0...@cloudinary/ng@1.13.0) (2023-04-06)
+
+
+### Features
+
+* triple empty line ([f8f33e8](https://github.com/cloudinary/frontend-frameworks/commit/f8f33e89fb1954deb93f91dbb87d03a9359701e9))
+
+
+
+
+
 # 1.12.0 (2023-04-06)
 
 
