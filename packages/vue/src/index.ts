@@ -6,7 +6,7 @@ import {
   accessibility,
   lazyload,
   responsive,
-} from "@cloudinary/html";
+} from "@cloudinary/html2";
 
 import AdvancedImage from "./components/AdvancedImage.vue";
 import AdvancedVideo from "./components/AdvancedVideo.vue";
