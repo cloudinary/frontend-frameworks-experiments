@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.13.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/vue@1.12.0...@cloudinary/vue@1.13.0) (2023-04-06)
+
+
+### Features
+
+* empty line v2 ([8d23894](https://github.com/cloudinary/frontend-frameworks/commit/8d23894e60e234af849bd73f7d344630bbd31591))
+
+
+
+
+
 # 1.12.0 (2023-04-06)
 
 
