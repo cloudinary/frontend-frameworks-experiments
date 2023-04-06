@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.16.0-alpha.2](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.16.0-alpha.1...@cloudinary/angular-workspace@1.16.0-alpha.2) (2023-04-06)
+
+
+### Features
+
+* use html5 ([3b2bba3](https://github.com/cloudinary/frontend-frameworks/commit/3b2bba3b092b425af58415249e33ef9c1534d816))
+
+
+
+
+
 # [1.16.0-alpha.1](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.16.0-alpha.0...@cloudinary/angular-workspace@1.16.0-alpha.1) (2023-04-06)
 
 

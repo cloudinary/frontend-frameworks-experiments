@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.14.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/vue@1.13.0...@cloudinary/vue@1.14.0) (2023-04-06)
+
+
+### Features
+
+* use html2 in vue ([4fcd572](https://github.com/cloudinary/frontend-frameworks/commit/4fcd57265411b7b9abfefa9585137470095b5db5))
+
+
+
+
+
 # [1.13.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/vue@1.12.0...@cloudinary/vue@1.13.0) (2023-04-06)
 
 
