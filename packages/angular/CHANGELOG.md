@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.15.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.15.0-alpha.0...@cloudinary/angular-workspace@1.15.0) (2023-04-06)
+
+**Note:** Version bump only for package @cloudinary/angular-workspace
+
+
+
+
+
 # [1.15.0-alpha.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.14.0...@cloudinary/angular-workspace@1.15.0-alpha.0) (2023-04-06)
 
 
