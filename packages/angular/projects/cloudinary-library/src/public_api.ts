@@ -3,12 +3,10 @@
  */
 
 import {
-  placeholder,
-  accessibility,
   lazyload,
   responsive,
 } from '@cloudinary/html';
-export {accessibility, lazyload, responsive};
+export {lazyload, responsive};
 
 
 
