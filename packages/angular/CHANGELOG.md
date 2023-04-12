@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.16.0...@cloudinary/angular-workspace@2.0.0) (2023-04-12)
+
+
+### Features
+
+* remove lazyload from API ([8d26bd3](https://github.com/cloudinary/frontend-frameworks/commit/8d26bd3da4eadd035c1591b55a18cdac3934eecf))
+
+
+### BREAKING CHANGES
+
+* removed lazyload from API
+
+
+
+
+
 # [1.16.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/angular-workspace@1.16.0-alpha.3...@cloudinary/angular-workspace@1.16.0) (2023-04-12)
 
 
