@@ -8,7 +8,7 @@ import {
   lazyload,
   responsive,
 } from '@cloudinary/html';
-export {placeholder, accessibility, lazyload, responsive};
+export {accessibility, lazyload, responsive};
 
 
 
