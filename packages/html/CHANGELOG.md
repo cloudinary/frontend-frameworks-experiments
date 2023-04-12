@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.12.1](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/html@1.12.0...@cloudinary/html@1.12.1) (2023-04-12)
+
+
+### Bug Fixes
+
+* html import ([1a5cb0e](https://github.com/cloudinary/frontend-frameworks/commit/1a5cb0e9d043b9ee9f2bd0123c33d91912e1ef7c))
+
+
+
+
+
 # 1.12.0 (2023-04-06)
 
 
