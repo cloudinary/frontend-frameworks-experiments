@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.15.0](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/ng@1.15.0-alpha.3...@cloudinary/ng@1.15.0) (2023-04-12)
+
+
+### Bug Fixes
+
+* blabla ([4e25b85](https://github.com/cloudinary/frontend-frameworks/commit/4e25b85fd33257b40aba9a5a8c602425b4e2cae7))
+
+
+
+
+
 # [1.15.0-alpha.3](https://github.com/cloudinary/frontend-frameworks/compare/@cloudinary/ng@1.15.0-alpha.2...@cloudinary/ng@1.15.0-alpha.3) (2023-04-12)
 
 
