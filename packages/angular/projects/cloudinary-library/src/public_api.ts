@@ -6,7 +6,7 @@ import {
   lazyload,
   responsive,
 } from '@cloudinary/html';
-export {lazyload, responsive};
+export {responsive};
 
 
 
