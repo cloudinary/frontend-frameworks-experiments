@@ -29,7 +29,7 @@ To build and link project:
 ## Installation
 To get started, install the npm client package of your choice along with our base package.
 For example, to use Cloudinary in a [React](https://cloudinary.com/documentation/react2_integration) environment, the following packages should be installed:
-   
+ 
 ```bash
 npm i @cloudinary/react @cloudinary/url-gen
 ```
@@ -76,3 +76,7 @@ We recommend the following order when using our plugins to achieve the best resu
 
 You can omit any plugin, but the order from above should remain.
 </div>
+
+## Publish
+Please read instructions in [sdk-scripts](https://github.com/CloudinaryLtd/sdk-scripts/blob/master/src/release/js/frontend-frameworks/README.md).
+
