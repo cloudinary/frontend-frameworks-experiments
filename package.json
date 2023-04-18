@@ -2,6 +2,7 @@
   "name": "frontend-frameworks-monorepo",
   "version": "1.0.0",
   "scripts": {
+    "prepare": "husky install",
     "install": "lerna bootstrap --no-ci",
     "build": "lerna run build",
     "quickstart": "lerna bootstrap --no-ci && lerna run build",
